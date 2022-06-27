@@ -1,7 +1,2 @@
-echo "Hello, World"[D /n"[A[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D
-[A
-[A
-[A[A[F
-
-[C[C[C[C[C[C[C[C[C[C[C[C[C[C#!/bin/bash
-echo "Hello, World"
+#!/bin/bash
+echo "Hello, World" /n"
